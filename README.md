@@ -3,3 +3,4 @@
 ## Week1
 * 一些字符串的输入练习[StringDemo](StringDemo.java)
 * 判断输入能否被5和7整除[IntDemo](IntDemo.java)
+* 判断输入是否为元音字母[CharDemo](CharDemo.java)
